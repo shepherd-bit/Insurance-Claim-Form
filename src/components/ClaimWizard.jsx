@@ -114,7 +114,7 @@ function ClaimWizard() {
     <div style={styles.wizardViewport}>
       {/* Persistent Wizard Header */}
       <header style={styles.header}>
-        <img src="/logo.png" alt="Shepherd Logo" style={styles.logo} />
+        <img src="public/logo.png" alt="Shepherd Logo" style={styles.logo} />
         
         {/* Step Progression Bar UI Layout */}
         <div style={styles.progressContainer}>

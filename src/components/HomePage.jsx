@@ -14,7 +14,7 @@ function HomePage({ onBegin }) {
               You can swap this <img> src for your actual file path once ready.
             */}
             <img 
-              src="/logo.png" 
+              src="public/logo.png" 
               alt="Shepherd Logo" 
               style={styles.logo} 
               onError={(e) => {
@@ -59,7 +59,7 @@ function HomePage({ onBegin }) {
               Swap this src out with your image resource once available.
             */}
             <img 
-              src="/hero-0.jpg" 
+              src="public/hero-0.jpg" 
               alt="Luxury secure vehicle driving through scenic morning vista" 
               style={styles.heroImage}
               onError={(e) => {
