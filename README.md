@@ -2,7 +2,7 @@
 
 An elegant, intuitive, and luxury-tier multi-step web application designed to streamline the auto insurance claim process. Built with speed, security, and high-end aesthetics in mind, Shepherd guides users step-by-step through incident reporting with clear validations and dynamic feedback.
 
-![preview](${import.meta.env.BASE_URL}preview.PNG)
+![preview](${import.meta.env.BASE_URL}preview.png)
 
 ---
 
