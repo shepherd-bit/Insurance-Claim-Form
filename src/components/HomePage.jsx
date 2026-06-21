@@ -1,6 +1,7 @@
 // src/components/HomePage.jsx
 import React from 'react';
 
+
 function HomePage({ onBegin }) {
   return (
     <div className="homepage-wrapper fade-in" style={styles.wrapper}>
