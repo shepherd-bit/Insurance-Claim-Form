@@ -14,7 +14,7 @@ function HomePage({ onBegin }) {
               You can swap this <img> src for your actual file path once ready.
             */}
             <img 
-              src="public/logo.png" 
+              src={`${import.meta.env.BASE_URL}logo.png`}
               alt="Shepherd Logo" 
               style={styles.logo} 
               onError={(e) => {
