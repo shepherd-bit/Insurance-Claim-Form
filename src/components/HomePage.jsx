@@ -59,7 +59,7 @@ function HomePage({ onBegin }) {
               Swap this src out with your image resource once available.
             */}
             <img 
-              src="/hero-0.jpg" 
+              src={`${import.meta.env.BASE_URL}hero-0.jpg`} 
               alt="Luxury secure vehicle driving through scenic morning vista" 
               style={styles.heroImage}
               onError={(e) => {
