@@ -143,6 +143,7 @@ function ClaimWizard() {
         </div>
       </header>
 
+
       {/* Main Grid: Application Form Container vs Setup Workspace Help Sidebar */}
       <div style={styles.bodyGrid}>
         <main style={styles.formCard}>
