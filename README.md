@@ -1,16 +1,33 @@
-# React + Vite
+# 🛡️ Shepherd — Auto Insurance Claim Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant, intuitive, and luxury-tier multi-step web application designed to streamline the auto insurance claim process. Built with speed, security, and high-end aesthetics in mind, Shepherd guides users step-by-step through incident reporting with clear validations and dynamic feedback.
 
-Currently, two official plugins are available:
+![preview](${import.meta.env.BASE_URL}preview.PNG)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* **Premium UI/UX Design:** Implements a sophisticated gold, white, and charcoal luxury color palette tailored for corporate elegance.
+* **Multi-Step Claim Wizard:** Breaks down a complex insurance intake process into digestible, stress-free stages.
+* **Live System Status Tracker:** Displays a dynamic "Fully Operational" gateway status indicator for user reassurance.
+* **Robust Validation:** Ensures claim accuracy before submission to keep processing times ultra-fast.
+* **Fully Responsive:** Tailored layout scaling across different viewport dimensions.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tech Stack
+
+* **Frontend Framework:** React (Vite-powered)
+* **Styling:** Modular inline-styles with dynamic premium gradients
+* **Icons & Assets:** Curated modern vector iconography
+
+---
+
+## 📦 Installation & Local Setup
+
+Get the portal running locally on your machine in just a few steps:
+
+1. **Clone the repository:**
+```bash
+   git clone [https://github.com/shepherd-bit/Insurance-Claim-Form.git](https://github.com/shepherd-bit/Insurance-Claim-Form.git)
