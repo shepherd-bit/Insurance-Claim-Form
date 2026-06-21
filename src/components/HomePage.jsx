@@ -145,11 +145,13 @@ const styles = {
     gridTemplateColumns: '1fr 1fr',
     gap: '4rem',
     alignItems: 'center',
+    flexWrap: 'wrap',
   },
   leftColumn: {
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'flex-start',
+    flex: '1 1 400px',
   },
   slogan: {
     color: 'var(--primary-gold)',
@@ -180,6 +182,7 @@ const styles = {
   rightColumn: {
     display: 'flex',
     justifyContent: 'center',
+    flex: '1 1 400px',
   },
   imageFrame: {
     width: '100%',
